@@ -1,6 +1,6 @@
 {
   "name": "kremlin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Modern WebApp Pentesting Suite",
   "author": "Zachary Iles",
   "main": "dist/index.js",
