@@ -1,11 +1,3 @@
-import chai from 'chai'
-import sinon from 'sinon'
-import sinonChai from 'sinon-chai'
-
-const expect = chai.expect
-
-chai.use(sinonChai);
-
 describe('Main Test Description', function () {
   let a
 
